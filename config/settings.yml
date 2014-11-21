@@ -1,0 +1,11 @@
+# active_directory:
+#   domain: Domain FQDN i.e. corp.contoso.com
+#   server: Active Directory controller to connect to. i.e ad1.contoso.com
+#   base: Base DN to search for users. i.e cn=Users,dc=Contoso,dc=com
+#   query_user: Username to bind as
+#   query_password: Passord for bind user
+accounts_backend: :settings # Default backend loads accounts from Settings
+# aws_accounts:
+#   AccountNameHere:
+#     access_key_id: The AWS access key ID for this account
+#     secret_access_key: The AWS secret key for this account

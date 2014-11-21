@@ -1,0 +1,6 @@
+<%= bootstrap_form_tag url: '/', method: 'post' do |f| %>
+  <%= f.select :account, @aws_accounts.map {|a| a.name} %>
+  <%= f.submit 'Login '%>
+<% end %>
+
+<%= link_to "Sign Out", sessions_path(request.env['warden'].user), method: :delete %>

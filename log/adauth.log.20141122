@@ -1,0 +1,152 @@
+# Logfile created on 2014-11-22 06:37:26 +1100 by logger.rb/41954
+I, [2014-11-22T06:37:26.268191 #1422]  INFO -- load: Loading new config
+I, [2014-11-22T06:37:47.045466 #1437]  INFO -- load: Loading new config
+I, [2014-11-22T06:37:56.392865 #1437]  INFO -- Class: Searching for all "(objectClass=user)" where sAMAccountName = jpg
+I, [2014-11-22T06:37:56.393012 #1437]  INFO -- connection: Connecting to AD as "jpg"
+I, [2014-11-22T06:38:23.043894 #1445]  INFO -- load: Loading new config
+I, [2014-11-22T06:38:38.182255 #1445]  INFO -- Class: Searching for all "(objectClass=user)" where sAMAccountName = jpg
+I, [2014-11-22T06:38:38.184005 #1445]  INFO -- connection: Connecting to AD as "jpg"
+I, [2014-11-22T06:38:49.555614 #1445]  INFO -- Class: Searching for all "(objectClass=user)" where sAMAccountName = jpg
+I, [2014-11-22T06:39:31.291218 #1459]  INFO -- load: Loading new config
+I, [2014-11-22T06:39:37.026790 #1459]  INFO -- Class: Searching for all "(objectClass=user)" where sAMAccountName = jpg
+I, [2014-11-22T06:39:37.026938 #1459]  INFO -- connection: Connecting to AD as "jpg"
+I, [2014-11-22T06:39:54.948334 #1469]  INFO -- load: Loading new config
+I, [2014-11-22T06:39:56.607062 #1469]  INFO -- Class: Searching for all "(objectClass=user)" where sAMAccountName = jpg
+I, [2014-11-22T06:39:56.607241 #1469]  INFO -- connection: Connecting to AD as "jpg"
+I, [2014-11-22T06:42:01.332938 #1507]  INFO -- load: Loading new config
+I, [2014-11-22T06:49:59.726098 #1629]  INFO -- load: Loading new config
+I, [2014-11-22T06:50:05.033193 #1633]  INFO -- load: Loading new config
+I, [2014-11-22T06:50:16.622724 #1633]  INFO -- Class: Searching for all "(objectClass=user)" where sAMAccountName = jpg
+I, [2014-11-22T06:50:16.622914 #1633]  INFO -- connection: Connecting to AD as "jpg"
+I, [2014-11-22T06:53:28.948547 #1693]  INFO -- load: Loading new config
+I, [2014-11-22T06:53:42.371159 #1693]  INFO -- Class: Searching for all "(objectClass=user)" where sAMAccountName = jpg
+I, [2014-11-22T06:53:42.371360 #1693]  INFO -- connection: Connecting to AD as "jpg"
+I, [2014-11-22T06:56:57.293716 #1791]  INFO -- load: Loading new config
+I, [2014-11-22T07:00:40.172450 #1884]  INFO -- load: Loading new config
+I, [2014-11-22T07:01:30.378793 #1913]  INFO -- load: Loading new config
+I, [2014-11-22T07:02:14.878055 #1933]  INFO -- load: Loading new config
+I, [2014-11-22T07:03:37.467110 #1979]  INFO -- load: Loading new config
+I, [2014-11-22T07:04:38.679673 #2000]  INFO -- load: Loading new config
+I, [2014-11-22T07:05:04.699482 #2014]  INFO -- load: Loading new config
+I, [2014-11-22T07:06:03.515129 #2024]  INFO -- load: Loading new config
+I, [2014-11-22T07:06:34.361131 #2038]  INFO -- load: Loading new config
+I, [2014-11-22T07:12:13.609171 #2073]  INFO -- load: Loading new config
+I, [2014-11-22T07:13:04.433633 #2087]  INFO -- load: Loading new config
+I, [2014-11-22T07:13:36.996789 #2103]  INFO -- load: Loading new config
+I, [2014-11-22T07:13:55.766072 #2109]  INFO -- load: Loading new config
+I, [2014-11-22T07:14:31.397110 #2129]  INFO -- load: Loading new config
+I, [2014-11-22T07:15:42.924573 #2168]  INFO -- load: Loading new config
+I, [2014-11-22T07:17:31.907310 #2202]  INFO -- load: Loading new config
+I, [2014-11-22T07:18:12.268857 #2224]  INFO -- load: Loading new config
+I, [2014-11-22T07:18:35.120480 #2244]  INFO -- load: Loading new config
+I, [2014-11-22T07:19:36.083098 #2260]  INFO -- load: Loading new config
+I, [2014-11-22T07:23:16.952180 #2327]  INFO -- load: Loading new config
+I, [2014-11-22T07:24:30.383857 #2375]  INFO -- load: Loading new config
+I, [2014-11-22T07:25:15.823106 #2404]  INFO -- load: Loading new config
+I, [2014-11-22T07:25:52.242503 #2413]  INFO -- load: Loading new config
+I, [2014-11-22T07:28:43.588070 #2455]  INFO -- load: Loading new config
+I, [2014-11-22T07:29:14.661486 #2462]  INFO -- load: Loading new config
+I, [2014-11-22T07:33:08.666350 #2485]  INFO -- load: Loading new config
+I, [2014-11-22T07:35:13.217483 #2651]  INFO -- load: Loading new config
+I, [2014-11-22T07:39:37.039335 #2793]  INFO -- load: Loading new config
+I, [2014-11-22T07:41:05.296636 #2793]  INFO -- authentication: Attempting to authenticate as asdfasdf
+I, [2014-11-22T07:41:05.362687 #2793]  INFO -- authentication: Authentication failed (RuntimeError)
+I, [2014-11-22T07:41:24.629940 #2815]  INFO -- load: Loading new config
+I, [2014-11-22T07:41:33.992931 #2815]  INFO -- authentication: Attempting to authenticate as jpg
+I, [2014-11-22T07:41:34.007387 #2815]  INFO -- Class: Searching for all "(objectClass=user)" where sAMAccountName = jpg
+I, [2014-11-22T07:41:34.007577 #2815]  INFO -- connection: Connecting to AD as "jpg"
+I, [2014-11-22T07:41:34.056291 #2815]  INFO -- authentication: Authentication succesful
+I, [2014-11-22T07:41:34.073452 #2815]  INFO -- Class: Searching for all "(objectClass=user)" where sAMAccountName = jpg
+I, [2014-11-22T07:43:04.301858 #2855]  INFO -- load: Loading new config
+I, [2014-11-22T07:43:04.702073 #2855]  INFO -- Class: Searching for all "(objectClass=user)" where sAMAccountName = jpg
+I, [2014-11-22T07:43:04.702198 #2855]  INFO -- connection: Connecting to AD as "jpg"
+I, [2014-11-22T07:47:32.282752 #3000]  INFO -- load: Loading new config
+I, [2014-11-22T07:47:33.826292 #3000]  INFO -- Class: Searching for all "(objectClass=user)" where sAMAccountName = jpg
+I, [2014-11-22T07:47:33.826437 #3000]  INFO -- connection: Connecting to AD as "jpg"
+I, [2014-11-22T07:48:09.905470 #3020]  INFO -- load: Loading new config
+I, [2014-11-22T07:48:34.477127 #3049]  INFO -- load: Loading new config
+I, [2014-11-22T07:48:36.722979 #3049]  INFO -- Class: Searching for all "(objectClass=user)" where sAMAccountName = jpg
+I, [2014-11-22T07:48:36.723108 #3049]  INFO -- connection: Connecting to AD as "jpg"
+I, [2014-11-22T07:50:51.028362 #3102]  INFO -- load: Loading new config
+I, [2014-11-22T07:50:55.672918 #3102]  INFO -- Class: Searching for all "(objectClass=user)" where sAMAccountName = jpg
+I, [2014-11-22T07:50:55.673062 #3102]  INFO -- connection: Connecting to AD as "jpg"
+I, [2014-11-22T07:55:27.528070 #3139]  INFO -- load: Loading new config
+I, [2014-11-22T07:55:28.489701 #3139]  INFO -- Class: Searching for all "(objectClass=user)" where sAMAccountName = jpg
+I, [2014-11-22T07:55:28.489880 #3139]  INFO -- connection: Connecting to AD as "jpg"
+I, [2014-11-22T07:56:27.838057 #3157]  INFO -- load: Loading new config
+I, [2014-11-22T07:56:28.746410 #3157]  INFO -- Class: Searching for all "(objectClass=user)" where sAMAccountName = jpg
+I, [2014-11-22T07:56:28.746541 #3157]  INFO -- connection: Connecting to AD as "jpg"
+I, [2014-11-22T07:56:30.598651 #3157]  INFO -- authentication: Attempting to authenticate as 
+I, [2014-11-22T07:56:43.279697 #3157]  INFO -- authentication: Attempting to authenticate as 
+I, [2014-11-22T07:56:58.149272 #3157]  INFO -- authentication: Attempting to authenticate as jpg
+I, [2014-11-22T07:56:58.174720 #3157]  INFO -- Class: Searching for all "(objectClass=user)" where sAMAccountName = jpg
+I, [2014-11-22T07:56:58.193214 #3157]  INFO -- authentication: Authentication succesful
+I, [2014-11-22T07:56:58.202786 #3157]  INFO -- Class: Searching for all "(objectClass=user)" where sAMAccountName = jpg
+I, [2014-11-22T07:56:59.557510 #3157]  INFO -- authentication: Attempting to authenticate as 
+I, [2014-11-22T08:02:25.630425 #3531]  INFO -- load: Loading new config
+I, [2014-11-22T08:02:42.906470 #3531]  INFO -- authentication: Attempting to authenticate as 
+I, [2014-11-22T08:02:49.851919 #3531]  INFO -- authentication: Attempting to authenticate as jpg
+I, [2014-11-22T08:02:49.892856 #3531]  INFO -- Class: Searching for all "(objectClass=user)" where sAMAccountName = jpg
+I, [2014-11-22T08:02:49.893027 #3531]  INFO -- connection: Connecting to AD as "jpg"
+I, [2014-11-22T08:02:49.937586 #3531]  INFO -- authentication: Authentication succesful
+I, [2014-11-22T08:02:49.950451 #3531]  INFO -- Class: Searching for all "(objectClass=user)" where sAMAccountName = jpg
+I, [2014-11-22T08:02:51.558469 #3531]  INFO -- authentication: Attempting to authenticate as 
+I, [2014-11-22T08:03:36.561292 #3578]  INFO -- load: Loading new config
+I, [2014-11-22T08:03:41.234581 #3578]  INFO -- authentication: Attempting to authenticate as jpg
+I, [2014-11-22T08:03:41.249429 #3578]  INFO -- Class: Searching for all "(objectClass=user)" where sAMAccountName = jpg
+I, [2014-11-22T08:03:41.249561 #3578]  INFO -- connection: Connecting to AD as "jpg"
+I, [2014-11-22T08:03:41.296029 #3578]  INFO -- authentication: Authentication succesful
+I, [2014-11-22T08:03:41.308089 #3578]  INFO -- Class: Searching for all "(objectClass=user)" where sAMAccountName = jpg
+I, [2014-11-22T08:03:42.894985 #3578]  INFO -- authentication: Attempting to authenticate as 
+I, [2014-11-22T08:03:45.829070 #3578]  INFO -- authentication: Attempting to authenticate as asdf
+I, [2014-11-22T08:03:45.844761 #3578]  INFO -- authentication: Authentication failed (RuntimeError)
+I, [2014-11-22T08:18:35.216306 #3777]  INFO -- load: Loading new config
+I, [2014-11-22T08:18:41.138573 #3777]  INFO -- authentication: Attempting to authenticate as jpg
+I, [2014-11-22T08:18:41.166347 #3777]  INFO -- Class: Searching for all "(objectClass=user)" where sAMAccountName = jpg
+I, [2014-11-22T08:18:41.166471 #3777]  INFO -- connection: Connecting to AD as "jpg"
+I, [2014-11-22T08:18:41.215665 #3777]  INFO -- authentication: Authentication succesful
+I, [2014-11-22T08:18:41.229795 #3777]  INFO -- Class: Searching for all "(objectClass=user)" where sAMAccountName = jpg
+I, [2014-11-22T08:18:57.392558 #3777]  INFO -- Class: Searching for all "(objectClass=user)" where sAMAccountName = jpg
+I, [2014-11-22T08:19:15.760649 #3777]  INFO -- Class: Searching for all "(objectClass=user)" where sAMAccountName = jpg
+I, [2014-11-22T08:19:40.729265 #3777]  INFO -- Class: Searching for all "(objectClass=user)" where sAMAccountName = jpg
+I, [2014-11-22T08:21:28.405972 #3777]  INFO -- Class: Searching for all "(objectClass=user)" where sAMAccountName = jpg
+I, [2014-11-22T08:21:49.050566 #3777]  INFO -- Class: Searching for all "(objectClass=user)" where sAMAccountName = jpg
+I, [2014-11-22T08:22:27.719057 #3844]  INFO -- load: Loading new config
+I, [2014-11-22T08:23:28.550315 #3777]  INFO -- Class: Searching for all "(objectClass=user)" where sAMAccountName = jpg
+I, [2014-11-22T10:45:46.808765 #4170]  INFO -- load: Loading new config
+I, [2014-11-22T10:46:51.757279 #4177]  INFO -- load: Loading new config
+I, [2014-11-22T10:47:16.466138 #4183]  INFO -- load: Loading new config
+I, [2014-11-22T20:29:42.021967 #4842]  INFO -- load: Loading new config
+I, [2014-11-22T20:29:52.959160 #4848]  INFO -- load: Loading new config
+I, [2014-11-22T20:30:13.082919 #4183]  INFO -- Class: Searching for all "(objectClass=user)" where sAMAccountName = jpg
+I, [2014-11-22T20:30:13.083299 #4183]  INFO -- connection: Connecting to AD as "jpg"
+I, [2014-11-22T20:30:47.501046 #4866]  INFO -- load: Loading new config
+I, [2014-11-22T20:30:48.714742 #4866]  INFO -- Class: Searching for all "(objectClass=user)" where sAMAccountName = jpg
+I, [2014-11-22T20:30:48.714872 #4866]  INFO -- connection: Connecting to AD as "jpg"
+I, [2014-11-22T20:32:20.522082 #4890]  INFO -- load: Loading new config
+I, [2014-11-22T20:33:12.617239 #4924]  INFO -- load: Loading new config
+I, [2014-11-22T20:33:42.581317 #4924]  INFO -- Class: Searching for all "(objectClass=user)" where sAMAccountName = jpg
+I, [2014-11-22T20:33:42.581847 #4924]  INFO -- connection: Connecting to AD as "jpg"
+I, [2014-11-22T20:39:08.546733 #4924]  INFO -- Class: Searching for all "(objectClass=user)" where sAMAccountName = jpg
+I, [2014-11-22T20:40:26.147841 #4974]  INFO -- load: Loading new config
+I, [2014-11-22T20:40:30.803887 #4974]  INFO -- Class: Searching for all "(objectClass=user)" where sAMAccountName = jpg
+I, [2014-11-22T20:40:30.804034 #4974]  INFO -- connection: Connecting to AD as "jpg"
+I, [2014-11-22T20:40:33.205224 #4974]  INFO -- authentication: Attempting to authenticate as 
+I, [2014-11-22T20:40:42.516358 #4974]  INFO -- authentication: Attempting to authenticate as jpg
+I, [2014-11-22T20:40:42.527487 #4974]  INFO -- Class: Searching for all "(objectClass=user)" where sAMAccountName = jpg
+I, [2014-11-22T20:40:42.567676 #4974]  INFO -- authentication: Authentication succesful
+I, [2014-11-22T20:40:42.595901 #4974]  INFO -- Class: Searching for all "(objectClass=user)" where sAMAccountName = jpg
+I, [2014-11-22T23:46:02.255334 #4974]  INFO -- Class: Searching for all "(objectClass=user)" where sAMAccountName = jpg
+I, [2014-11-22T23:46:22.588217 #4974]  INFO -- Class: Searching for all "(objectClass=user)" where sAMAccountName = jpg
+I, [2014-11-22T23:46:27.840053 #4974]  INFO -- authentication: Attempting to authenticate as 
+I, [2014-11-22T23:47:01.642161 #4974]  INFO -- authentication: Attempting to authenticate as nadia
+I, [2014-11-22T23:47:01.658139 #4974]  INFO -- Class: Searching for all "(objectClass=user)" where sAMAccountName = nadia
+I, [2014-11-22T23:47:01.676345 #4974]  INFO -- authentication: Authentication succesful
+I, [2014-11-22T23:47:01.687359 #4974]  INFO -- Class: Searching for all "(objectClass=user)" where sAMAccountName = nadia
+I, [2014-11-22T23:53:45.261049 #4974]  INFO -- Class: Searching for all "(objectClass=user)" where sAMAccountName = nadia
+I, [2014-11-22T23:53:57.483945 #5214]  INFO -- load: Loading new config
+I, [2014-11-22T23:53:58.731034 #5214]  INFO -- Class: Searching for all "(objectClass=user)" where sAMAccountName = nadia
+I, [2014-11-22T23:53:58.731176 #5214]  INFO -- connection: Connecting to AD as "jpg"
+I, [2014-11-22T23:54:20.361271 #5214]  INFO -- Class: Searching for all "(objectClass=user)" where sAMAccountName = nadia
+I, [2014-11-22T23:57:18.021673 #5214]  INFO -- Class: Searching for all "(objectClass=user)" where sAMAccountName = nadia
+I, [2014-11-22T23:57:37.642971 #5214]  INFO -- Class: Searching for all "(objectClass=user)" where sAMAccountName = nadia

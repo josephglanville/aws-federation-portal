@@ -3,6 +3,11 @@ AWS Federation Proxy
 
 This is a simple and extendable Rails application that allows you to authenticate AWS console sessions via Active Directory
 
+Requirements
+------------
+
+* Active Directory user with read privledges to the base DN containing your users
+
 Configuration
 -------------
 

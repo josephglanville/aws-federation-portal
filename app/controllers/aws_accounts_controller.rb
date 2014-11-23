@@ -6,5 +6,7 @@ class AwsAccountsController < ApplicationController
   end
 
   def login
+    token = current_user.token(params[:account], actions: '*', resources: :any)
+    redirect_to token.signin_url
   end
 end

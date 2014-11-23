@@ -5,26 +5,16 @@ module Warden
   module Strategies
     class AdAuthenticatable < Warden::Strategies::Base
       def authenticate!
-        begin
-          user = Adauth.authenticate username, password
-          if user
-            success!(user)
-          else
-            fail(:invalid_login)
-          end
-        rescue Net::LDAP::LdapError
+        user = Adauth.authenticate params['username'], params['password']
+        if user
+          success!(user)
+        else
           fail(:invalid_login)
         end
+      rescue Net::LDAP::LdapError
+        # rubocop:disable Style/SignalException
+        fail(:invalid_login)
       end
-
-      def username
-        params['username']
-      end
-
-      def password
-        params['password']
-      end
-
     end
   end
 end

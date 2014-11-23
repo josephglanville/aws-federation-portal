@@ -2,7 +2,6 @@ require 'open-uri'
 
 module STS
   class Token
-
     SIGNIN_URL = 'https://signin.aws.amazon.com/federation'
     CONSOLE_URL = 'https://console.aws.amazon.com/'
 
@@ -10,7 +9,7 @@ module STS
       @username = username
       @creds = creds
       @sts = AWS::STS.new(config: AWS.config.with(creds))
-      @policy = AWS::STS::Policy.new()
+      @policy = AWS::STS::Policy.new
       @policy.allow(policy)
     end
 

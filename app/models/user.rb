@@ -8,6 +8,6 @@ class User < Adauth::AdObjects::User
       access_key_id: account.access_key_id,
       secret_access_key: account.secret_access_key
     }
-    STS::Token.new(self.login, creds, policy)
+    STS::Token.new(login, creds, policy)
   end
 end

@@ -6,7 +6,12 @@ class AwsAccountsController < ApplicationController
   end
 
   def login
-    token = current_user.token(params[:account], actions: '*', resources: :any)
+    # TODO(jpg) load policies from storage
+    policy = {
+      actions: '*',
+      resources: :any
+    }
+    token = current_user.token(params[:account], policy)
     redirect_to token.signin_url
   end
 end
